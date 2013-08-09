@@ -5,3 +5,19 @@
 .pad_top {
   margin-top: 20px;
 }
+
+.align-center {
+	text-align:center;
+}
+
+.ind-pictures img {
+	padding-top:10px;
+}
+
+.footer {
+	height: 60px;
+}
+
+.carousel-control {
+	top:50%;
+}
